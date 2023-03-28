@@ -18,20 +18,20 @@ LinkFree was built using the following technologies:
 
 ## Getting Started
 To get started with this project, follow these steps:
-Clone the repository to your local machine
-Install the necessary dependencies by running npm install
-Create a Firebase project and configure it with your Firebase API keys
-Run the application by running npm start
+- Clone the repository to your local machine
+- Install the necessary dependencies by running npm install
+- Create a Firebase project and configure it with your Firebase API keys
+- Run the application by running npm start
 
 
 ## ontributing
 We welcome contributions from the community! If you'd like to contribute to this project, please follow these steps:
 
-Fork the repository
-Create a new branch for your feature or bug fix
-Make your changes and commit them with descriptive commit messages
-Push your changes to your forked repository
-Create a pull request to merge your changes into the main repository
+- Fork the repository
+- Create a new branch for your feature or bug fix
+- Make your changes and commit them with descriptive commit messages
+- Push your changes to your forked repository
+- Create a pull request to merge your changes into the main repository
 
 
 ## License
@@ -40,6 +40,6 @@ This project is licensed under the MIT license.
 ## Acknowledgements
 We would like to thank the following individuals for their Mentorship to this project:
 
-Dr. Kiran Sharma 
-Dr. Nishitha Putela
-Dr. Yogesh Gupta
+- Dr. Kiran Sharma 
+- Dr. Nishitha Putela
+- Dr. Yogesh Gupta
