@@ -16,6 +16,11 @@ LinkFree was built using the following technologies:
 - [Tailwind CSS](https://tailwindcss.com/) - (Utility-first CSS framework)
 - [Material-UI]() - (Component Library || Style Guide)
 
+## Packages Used 
+Our Application is powered by 
+- Formik - (Form library for React)
+- Yup - (JavaScript schema builder for value parsing and validation)
+- 
 ## Getting Started
 To get started with this project, follow these steps:
 - Clone the repository to your local machine
